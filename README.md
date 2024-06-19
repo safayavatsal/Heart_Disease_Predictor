@@ -1,9 +1,11 @@
 # Heart Disease Predictor
 
-##Overview:
+## Overview:
+<br>
 This project implements a heart disease predictor using a Random Forest Classifier to predict the likelihood of heart disease based on various health and lifestyle parameters.
 
-**Dataset**:
+#Dataset:
+<br>
 The dataset used (`heart_disease.csv`) contains the following columns:
 
 - **Age**: Age of the patient
@@ -21,14 +23,14 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **Thal**: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
 - **Target**: Presence of heart disease (1 = presence, 0 = absence)
 
-**Libraries Used**:
+# Libraries Used:
 - **numpy** (version 1.26.4): For numerical computations and array operations.
 - **pandas** (version 2.1.4): For data manipulation and analysis.
 - **matplotlib** (version 3.4.2): For creating visualizations of the data.
 - **seaborn** (version 0.12.2): For statistical data visualization.
 - **sklearn**(version 1.2.2):For loading and processing data
 
-**Usage**:
+# Usage:
 <br>
 <br>
 **1.Clone the Repository**:
@@ -39,19 +41,19 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 <br>
 **2.Open and Run the Jupyter Notebook**:
 <br>
--Navigate to the repository directory and open ```Heart_Disease_Predictor.ipynb``` using Jupyter Notebook or Jupyter Lab.
+- Navigate to the repository directory and open ```Heart_Disease_Predictor.ipynb``` using Jupyter Notebook or Jupyter Lab.
 <br>
--Execute the cells to run and explore the heart disease predictor.
+- Execute the cells to run and explore the heart disease predictor.
 <br>
 **3.Dependencies Installation:**
 <br>
--If not already installed, you can install the required dependencies using pip:
+- If not already installed, you can install the required dependencies using pip:
 <br>
 ```pip install numpy pandas matplotlib seaborn```
 <br>
 <br>
-**Files Included**
+# Files Included
 <br>
--```heart_disease.csv```: Dataset containing heart disease data.
+- ```heart_disease.csv```: Dataset containing heart disease data.
 <br>
--```Heart_Disease_Predictor.ipynb```: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
+- ```Heart_Disease_Predictor.ipynb```: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
