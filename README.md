@@ -29,24 +29,27 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 
 **Usage**:
 <br>
--**Clone the Repository**:
+**1.Clone the Repository**:
 ```git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git```
+<br>
 ```cd Heart_Disease_Predictor```
 
-
--**Open and Run the Jupyter Notebook**:
+**2.Open and Run the Jupyter Notebook**:
 <br>
 
-*Navigate to the repository directory and open Heart_Disease_Predictor.ipynb using Jupyter Notebook or Jupyter Lab.<br>
-*Execute the cells to run and explore the heart disease predictor.
+-Navigate to the repository directory and open Heart_Disease_Predictor.ipynb using Jupyter Notebook or Jupyter Lab.
 <br>
--**Dependencies Installation:**
+-Execute the cells to run and explore the heart disease predictor.
+<br>
+**3.Dependencies Installation:**
 <br>
 If not already installed, you can install the required dependencies using pip:
+<br>
 ```pip install numpy pandas matplotlib seaborn```
 <br>
 
--**Files Included**
-
+**Files Included**
+<br>
 -heart_disease.csv: Dataset containing heart disease data.
+<br>
 -Heart_Disease_Predictor.ipynb: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
