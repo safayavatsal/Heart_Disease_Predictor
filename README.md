@@ -28,32 +28,20 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **seaborn** (version 0.11.1): For statistical data visualization.
 
 **Usage**
-**Clone the Repository:**
+-**Clone the Repository:**
 
-```bash
-git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git
-cd Heart_Disease_Predictor
-Open and Run the Jupyter Notebook:
+'''git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git
+cd Heart_Disease_Predictor'''
+-**Open and Run the Jupyter Notebook:**
 
-Navigate to the repository directory and open Heart_Disease_Predictor.ipynb using Jupyter Notebook or Jupyter Lab.
-Execute the cells to run and explore the heart disease predictor.
-Dependencies Installation:
+-Navigate to the repository directory and open Heart_Disease_Predictor.ipynb using Jupyter Notebook or Jupyter Lab.<br>
+-Execute the cells to run and explore the heart disease predictor.
+-**Dependencies Installation:**
 If not already installed, you can install the required dependencies using pip:
+'''
+pip install numpy pandas matplotlib seaborn'''
 
-bash
-Copy code
-pip install numpy pandas matplotlib seaborn
-Files Included
+-**Files Included**
 
-heart_disease.csv: Dataset containing heart disease data.
-Heart_Disease_Predictor.ipynb: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
-How to Contribute
-Contributions to enhance the predictor or improve documentation are welcome! To contribute:
-
-Fork the repository.
-Create your feature branch (git checkout -b feature/new-feature).
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature/new-feature).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+-heart_disease.csv: Dataset containing heart disease data.
+-Heart_Disease_Predictor.ipynb: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
