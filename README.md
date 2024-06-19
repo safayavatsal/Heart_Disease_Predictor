@@ -1,6 +1,6 @@
 # Heart Disease Predictor
 
-**Overview**:
+##Overview:
 This project implements a heart disease predictor using a Random Forest Classifier to predict the likelihood of heart disease based on various health and lifestyle parameters.
 
 **Dataset**:
