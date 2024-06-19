@@ -28,31 +28,24 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **seaborn** (version 0.11.1): For statistical data visualization.
 
 **Usage**:
--**Clone the Repository:**
+<br>
+-**Clone the Repository**:
 ```git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git```
 ```cd Heart_Disease_Predictor```
 
 
-
-
-
-**Usage**
-<br>
--**Clone the Repository:**
-
-```git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git``` <br>
-```cd Heart_Disease_Predictor```
-<br>
--**Open and Run the Jupyter Notebook:**
+-**Open and Run the Jupyter Notebook**:
 <br>
 
--Navigate to the repository directory and open Heart_Disease_Predictor.ipynb using Jupyter Notebook or Jupyter Lab.<br>
--Execute the cells to run and explore the heart disease predictor.
+*Navigate to the repository directory and open Heart_Disease_Predictor.ipynb using Jupyter Notebook or Jupyter Lab.<br>
+*Execute the cells to run and explore the heart disease predictor.
 <br>
 -**Dependencies Installation:**
+<br>
 If not already installed, you can install the required dependencies using pip:
 ```pip install numpy pandas matplotlib seaborn```
 <br>
+
 -**Files Included**
 
 -heart_disease.csv: Dataset containing heart disease data.
