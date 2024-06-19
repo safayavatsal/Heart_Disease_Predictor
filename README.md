@@ -1,10 +1,10 @@
 # Heart Disease Predictor
 
 ## Overview:
-<br>
+
 This project implements a heart disease predictor using a Random Forest Classifier to predict the likelihood of heart disease based on various health and lifestyle parameters.
 
-#Dataset:
+# Dataset:
 <br>
 The dataset used (`heart_disease.csv`) contains the following columns:
 
@@ -52,8 +52,8 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 ```pip install numpy pandas matplotlib seaborn```
 <br>
 <br>
-# Files Included
-<br>
+# Files Included:
+
 - ```heart_disease.csv```: Dataset containing heart disease data.
 <br>
 - ```Heart_Disease_Predictor.ipynb```: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
