@@ -40,13 +40,7 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 <br>
 - Navigate to the repository directory and open ```Heart_Disease_Predictor.ipynb``` using Jupyter Notebook or Jupyter Lab.
 - Execute the cells to run and explore the heart disease predictor.
-  
-**3.Dependencies Installation**:
-- If not already installed, you can install the required dependencies using pip:
-<br>
-```pip install numpy pandas matplotlib seaborn```
-<br>
-
+  <br>
 ## Files Included:
 - ```heart_disease.csv```: Dataset containing heart disease data.
 - ```Heart_Disease_Predictor.ipynb```: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
