@@ -5,7 +5,6 @@
 This project implements a heart disease predictor using a Random Forest Classifier to predict the likelihood of heart disease based on various health and lifestyle parameters.
 
 # Dataset:
-<br>
 The dataset used (`heart_disease.csv`) contains the following columns:
 
 - **Age**: Age of the patient
@@ -31,8 +30,6 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **sklearn**(version 1.2.2):For loading and processing data
 
 # Usage:
-<br>
-<br>
 **1.Clone the Repository**:
 <br>
 ```git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git```
