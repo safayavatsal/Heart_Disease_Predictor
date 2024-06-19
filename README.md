@@ -42,7 +42,7 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 <br>
 - Execute the cells to run and explore the heart disease predictor.
 <br>
-**3.Dependencies Installation:**
+**3.Dependencies Installation**:
 <br>
 - If not already installed, you can install the required dependencies using pip:
 <br>
@@ -50,7 +50,6 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 <br>
 <br>
 # Files Included:
-
 - ```heart_disease.csv```: Dataset containing heart disease data.
 <br>
 - ```Heart_Disease_Predictor.ipynb```: Jupyter Notebook containing the code for data analysis, model training, and evaluation.
