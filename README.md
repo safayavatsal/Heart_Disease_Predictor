@@ -39,7 +39,6 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 **2.Open and Run the Jupyter Notebook**:
 <br>
 - Navigate to the repository directory and open ```Heart_Disease_Predictor.ipynb``` using Jupyter Notebook or Jupyter Lab.
-<br>
 - Execute the cells to run and explore the heart disease predictor.
 <br>
 **3.Dependencies Installation**:
