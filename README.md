@@ -22,10 +22,11 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **Target**: Presence of heart disease (1 = presence, 0 = absence)
 
 **Libraries Used**:
-- **numpy** (version 1.21.0): For numerical computations and array operations.
-- **pandas** (version 1.3.0): For data manipulation and analysis.
+- **numpy** (version 1.26.4): For numerical computations and array operations.
+- **pandas** (version 2.1.4): For data manipulation and analysis.
 - **matplotlib** (version 3.4.2): For creating visualizations of the data.
-- **seaborn** (version 0.11.1): For statistical data visualization.
+- **seaborn** (version 0.12.2): For statistical data visualization.
+- **sklearn**(version 1.2.2):For loading and processing data
 
 **Usage**:
 <br>
@@ -38,7 +39,6 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 <br>
 **2.Open and Run the Jupyter Notebook**:
 <br>
-
 -Navigate to the repository directory and open ```Heart_Disease_Predictor.ipynb``` using Jupyter Notebook or Jupyter Lab.
 <br>
 -Execute the cells to run and explore the heart disease predictor.
