@@ -1,9 +1,9 @@
 # Heart Disease Predictor
 
-**Overview: **
+**Overview**:
 This project implements a heart disease predictor using a Random Forest Classifier to predict the likelihood of heart disease based on various health and lifestyle parameters.
 
-**Dataset: **
+**Dataset**:
 The dataset used (`heart_disease.csv`) contains the following columns:
 
 - **Age**: Age of the patient
@@ -21,18 +21,17 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **Thal**: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
 - **Target**: Presence of heart disease (1 = presence, 0 = absence)
 
-**Libraries Used: **
+**Libraries Used**:
 - **numpy** (version 1.21.0): For numerical computations and array operations.
 - **pandas** (version 1.3.0): For data manipulation and analysis.
 - **matplotlib** (version 3.4.2): For creating visualizations of the data.
 - **seaborn** (version 0.11.1): For statistical data visualization.
 
-**Usage: **
+**Usage**:
 -**Clone the Repository:**
+```git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git```
+```cd Heart_Disease_Predictor```
 
-```bash
-git clone https://github.com/Niharika-Varshney/Heart_Disease_Predictor.git
-cd Heart_Disease_Predictor
 
 
 
