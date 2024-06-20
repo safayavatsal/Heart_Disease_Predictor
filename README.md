@@ -27,7 +27,7 @@ The dataset used (`heart_disease.csv`) contains the following columns:
 - **pandas** (version 2.1.4): For data manipulation and analysis.
 - **matplotlib** (version 3.4.2): For creating visualizations of the data.
 - **seaborn** (version 0.12.2): For statistical data visualization.
-- **sklearn**(version 1.2.2):For loading and processing data
+- **sklearn**(version 1.2.2): For loading and processing data
 
 ## Usage:
 **1.Clone the Repository**:
